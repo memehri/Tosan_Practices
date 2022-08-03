@@ -1,8 +1,0 @@
-com\tosan\application\Controller.class
-com\tosan\log\InterceptLog.class
-com\tosan\configuration\CustomWebConfigurer.class
-com\tosan\log\RequestBodyInterceptor.class
-com\tosan\log\ResponseBodyInterceptor.class
-com\tosan\log\LoggingServiceImpl.class
-com\tosan\application\Application.class
-com\tosan\log\LoggingService.class
